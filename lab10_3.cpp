@@ -20,6 +20,7 @@ int main()
         sum += score;
         sum_of_square += score * score;
         count++;
+        
     }
     
     cout << "Number of data = " << count << "\n";

@@ -4,6 +4,7 @@
 using namespace std;
 
 int main (){
+	
 	ifstream source;
 	ofstream dest;
 	source.open("cheerbook.txt");

@@ -31,6 +31,7 @@ int main(){
         }
         
         totalStudents++;
+        
     } while(true);
     
     cout << "In total " << totalStudents << " students." << endl;
